@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ratecenter.iml" filepath="$PROJECT_DIR$/ratecenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/biz/ratecenter-biz/ratecenter-biz.iml" filepath="$PROJECT_DIR$/biz/ratecenter-biz/ratecenter-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/ratecenter-common/ratecenter-common.iml" filepath="$PROJECT_DIR$/tools/ratecenter-common/ratecenter-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dal/ratecenter-dal/ratecenter-dal.iml" filepath="$PROJECT_DIR$/dal/ratecenter-dal/ratecenter-dal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/ratecenter-deploy/ratecenter-deploy.iml" filepath="$PROJECT_DIR$/tools/ratecenter-deploy/ratecenter-deploy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/biz/ratecenter-facade/ratecenter-facade.iml" filepath="$PROJECT_DIR$/biz/ratecenter-facade/ratecenter-facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/biz/ratecenter-integration/ratecenter-integration.iml" filepath="$PROJECT_DIR$/biz/ratecenter-integration/ratecenter-integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/model/ratecenter-model/ratecenter-model.iml" filepath="$PROJECT_DIR$/model/ratecenter-model/ratecenter-model.iml" />
+    </modules>
+  </component>
+</project>

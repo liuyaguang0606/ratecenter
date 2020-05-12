@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ratecenter-biz" />
+        <module name="ratecenter-common" />
+        <module name="ratecenter-dal" />
+        <module name="ratecenter-deploy" />
+        <module name="ratecenter-facade" />
+        <module name="ratecenter-integration" />
+        <module name="ratecenter-model" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ratecenter" target="1.7" />
+      <module name="ratecenter-biz" target="1.7" />
+      <module name="ratecenter-common" target="1.7" />
+      <module name="ratecenter-dal" target="1.7" />
+      <module name="ratecenter-deploy" target="1.7" />
+      <module name="ratecenter-facade" target="1.7" />
+      <module name="ratecenter-integration" target="1.7" />
+      <module name="ratecenter-model" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
